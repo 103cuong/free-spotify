@@ -1,32 +1,40 @@
-# free-spotify
+# 🎵 free-spotify 🎧
 
-[![Hits-of-Code](https://hitsofcode.com/github/harrytran103/free-spotify)](https://hitsofcode.com/view/github/harrytran103/free-spotify)
-[![](https://img.shields.io/github/license/harrytran103/free-spotify.svg)](https://github.com/harrytran103/free-spotify/blob/master/LICENSE)
+[![Hits-of-Code](https://hitsofcode.com/github/cuongndc9/free-spotify)](https://hitsofcode.com/view/github/cuongndc9/free-spotify)
+[![](https://img.shields.io/github/license/cuongndc9/free-spotify.svg)](https://github.com/cuongndc9/free-spotify/blob/master/LICENSE)
 
-#### 👉 Hey there, Spotify is one of the best Music Streaming services, I still encourage you to buy a Subscription plan or use a Free plan. Feel free to use my tiny product.
+## 🌟 Overview
 
-🔫 Block Spotify ads from your hosts (MacOS &amp; Linux).
+A utility to block Spotify ads on MacOS and Linux hosts files.
 
-*Thank [SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock) for awesome hosts.*
+## ⚠️ Important Note
 
-**for Windows OS**: 🎉 coming soon
+Spotify is a premium music streaming service. While this tool can block ads, we recommend supporting artists by using official subscription or free plans.
 
-## usage
+## 💻 Compatibility
 
-Easy to use. Just open the Terminal window and enter some commands.
+- 🍎 MacOS: Supported
+- 🐧 Linux: Supported
+- 🪟 Windows: Coming soon
 
-### installation
+## 🛠️ Prerequisites
+
+- 🖥️ Unix-based system (MacOS/Linux)
+- 🔗 Curl installed
+- 🔐 Sudo access
+
+## 📦 Installation
 
 ```sh
-sudo sh -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/free-spotify/master/install.sh)"
-```
+sudo sh -c "$(curl -sSL https://raw.githubusercontent.com/cuongndc9/free-spotify/master/install.sh)"
 
-### uninstallation
+## 🗑️ Uninstallation
 
 ```sh
-sudo python -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/free-spotify/master/uninstall.py)"
+sudo sh -c "$(curl -sSL https://raw.githubusercontent.com/cuongndc9/free-spotify/master/uninstall.sh)"
 ```
 
-## license
-
-MIT
+## 🙌 Credits
+Inspired by SpotifyAdBlock
+## 📄 License
+MIT License
