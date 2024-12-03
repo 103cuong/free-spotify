@@ -15,7 +15,6 @@ Spotify is a premium music streaming service. While this tool can block ads, we 
 
 - 🍎 MacOS: Supported
 - 🐧 Linux: Supported
-- 🪟 Windows: Coming soon
 
 ## 🛠️ Prerequisites
 
@@ -27,6 +26,7 @@ Spotify is a premium music streaming service. While this tool can block ads, we 
 
 ```sh
 sudo sh -c "$(curl -sSL https://raw.githubusercontent.com/cuongndc9/free-spotify/master/install.sh)"
+```
 
 ## 🗑️ Uninstallation
 
